@@ -1,1 +1,1 @@
-# Text-To-Image-generator-
+# Text-To-Image-generator
