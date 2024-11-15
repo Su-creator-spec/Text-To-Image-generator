@@ -29,9 +29,4 @@ This project demonstrates a Text to Image Generator implemented using Google Col
 open https://colab.research.google.com/drive/1Q1q_3m1sHZDKR0iV8y8nzbGOMStB9MCr
 
 
-Feel free to replace placeholders like `[Your Current Role or Project]`, `[Technologies or Skills you're currently learning]`, `[Projects or interests]`, `[Your areas of expertise]`, `[Your email address]`, and `[A fun fact about you]` with your actual information.
-
-Does this cover everything for your GitHub project description?
-
-
 
